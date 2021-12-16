@@ -1,0 +1,26 @@
+{
+  "name": "simplecalculator",
+  "version": "1.0.0",
+  "description": "creating simple calculator using routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bindub1/simplecalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bindub1/simplecalculator/issues"
+  },
+  "homepage": "https://github.com/bindub1/simplecalculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
